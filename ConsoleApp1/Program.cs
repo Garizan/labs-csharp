@@ -1,4 +1,4 @@
-﻿PrintABC();
+﻿/*PrintABC();
 Thread.Sleep(500);
 PrintABC();
 Thread.Sleep(500);
@@ -30,3 +30,26 @@ void C()
 {
     Console.WriteLine("C");
 }
+*/
+
+int a = 5;
+int b = 6;
+a = b;
+b = 7;
+Console.WriteLine(a);
+
+int x = 5;
+int y = x + 6;
+x = 7;
+Console.WriteLine(y);
+
+string c = "1";
+string d = c;
+c = "2";
+Console.WriteLine(c);
+Console.WriteLine(d);
+
+ // string n = 5;
+
+int m = 5;
+//  int m = 6;
