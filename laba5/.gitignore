@@ -1,0 +1,23 @@
+﻿# Build folders
+bin/
+obj/
+
+# Visual Studio
+.vs/
+
+# User-specific files
+*.user
+*.suo
+
+# Build results
+[Dd]ebug/
+[Rr]elease/
+
+# Test results
+TestResults/
+
+# Rider
+.idea/
+
+# NuGet
+packages/
