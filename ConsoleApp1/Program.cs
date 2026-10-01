@@ -1,4 +1,6 @@
-﻿/*PrintABC();
+﻿/*
+ *lab2 
+PrintABC();
 Thread.Sleep(500);
 PrintABC();
 Thread.Sleep(500);
@@ -31,7 +33,7 @@ void C()
     Console.WriteLine("C");
 }
 */
-
+// lab4
 int a = 5;
 int b = 6;
 a = b;
@@ -48,8 +50,3 @@ string d = c;
 c = "2";
 Console.WriteLine(c);
 Console.WriteLine(d);
-
- // string n = 5;
-
-int m = 5;
-//  int m = 6;
